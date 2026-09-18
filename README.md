@@ -23,3 +23,5 @@ Direct upload option: Workers & Pages → Create → Pages → Upload assets →
 Put `index.html` in the root of this repo, then Settings → Pages → Deploy from branch `main` / root.
 Live URL will be:
 https://luizhbr.github.io/estimate-for-leesa/
+
+<!-- cert-bump 2026-09-18 -- keep custom domain CNAME active -->
